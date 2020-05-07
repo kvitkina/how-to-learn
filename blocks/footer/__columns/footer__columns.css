@@ -1,0 +1,11 @@
+.footer__columns {
+    width: 90%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-basis: 711px;
+    min-height: 250px;
+    margin-bottom: 40px; /* очень надеюсь, что вы имели ввиду это */
+    padding-top: 60px; /* и это */
+  }
