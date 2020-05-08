@@ -2,7 +2,7 @@
     font-size: 18px;
     font-weight: normal;
     line-height: 1.2;
-    width: 175px;
+    max-width: 175px;
     margin-top: 0;
     color: #2f80ed;
     text-decoration: none;
